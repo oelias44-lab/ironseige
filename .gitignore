@@ -1,0 +1,8 @@
+# Local development and temporary files
+work/
+node_modules/
+.env
+.env.*
+*.log
+.DS_Store
+Thumbs.db

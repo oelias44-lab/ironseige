@@ -1,0 +1,2 @@
+# Preserve standalone releases byte-for-byte across Windows and cloud checkouts.
+*.html -text

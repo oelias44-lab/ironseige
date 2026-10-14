@@ -1,0 +1,1 @@
+Preserved v3.13: Siegecraft. Combat feedback, equipped-weapon upgrade offers, repair links, field manual, industrial floor and chassis polish, and reliable Dreadnought milestone spawning. Do not overwrite this release.
