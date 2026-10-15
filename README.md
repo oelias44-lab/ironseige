@@ -2,19 +2,19 @@
 
 Breach a hostile foundry. Steal its core. Survive the lockdown, destroy the Warden, and fight your way out.
 
-**Latest: v24 — Compact Radio** · [Download the game package](downloads/iron_siege_v24.zip) · [What's new](CHANGELOG.md)
+**Latest: v25 — Facility Operations** · [Download the game package](downloads/iron_siege_v25.zip) · [What's new](CHANGELOG.md)
 
 ![IRON SIEGE hangar with five chassis and industrial field-console panels](docs/assets/hangar-v3.21.png)
 
 ## Play
 
-1. Open the [game package](downloads/iron_siege_v24.zip) and select **Download raw file** on GitHub.
+1. Open the [game package](downloads/iron_siege_v25.zip) and select **Download raw file** on GitHub.
 2. Extract the ZIP.
 3. Open `iron_siege_v24.html` in your browser.
 
 No installation or build step is required. The package contains only the game and a short instruction file.
 
-You can also download the [standalone HTML](current/iron_siege_v24.html) with **Download raw file** and open it directly. GitHub's file preview displays source code rather than running the game.
+You can also download the [standalone HTML](current/iron_siege_v25.html) with **Download raw file** and open it directly. GitHub's file preview displays source code rather than running the game.
 
 ## Your mission
 
@@ -36,4 +36,6 @@ Progress is saved in your browser. Keep using the same browser and game location
 
 ## Updates
 
-Read the [changelog](CHANGELOG.md) for recent additions. All earlier builds remain available in the [version archive](versions/README.md); v24 is the latest. Single-digit archive names use leading zeros so they sort in order.
+The minimap covers the whole facility and keeps your visible area outlined. Follow operation diamonds and screen-edge arrows with distance readouts. Six operation types offer nine opportunities during the siege, starting at 00:55 and roughly every minute afterward.
+
+Read the [changelog](CHANGELOG.md) for recent additions. All earlier builds remain available in the [version archive](versions/README.md); v25 is the latest. Single-digit archive names use leading zeros so they sort in order.

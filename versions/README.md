@@ -1,11 +1,12 @@
 # Preserved releases
 
-Every release is preserved with simpler filenames; game contents are unchanged. **Latest: v24 — Compact Radio.** Do not overwrite these builds.
+Every release is preserved with simpler filenames; game contents are unchanged. **Latest: v25 — Facility Operations.** Do not overwrite these builds.
 
 `vN` is the simpler filename for the former `v3.N` release (for example, `v10` = `v3.10`). Original in-game version labels are unchanged. This index lists releases numerically, newest first; Single-digit filenames are padded (`v05`–`v09`), so GitHub’s alphabetical folder listing also follows numeric order, oldest first.
 
 | Version | Build | Main change |
 |---|---|---|
+| v25 | [Facility Operations](v25/iron_siege_v25.html) | Full-area map, clearer directions and six event types offered more often |
 | v24 | [Compact Radio](v24/iron_siege_v24.html) | Smaller corner radio with unobstructed battlefield and touch controls |
 | v23 | [Warden Radio](v23/iron_siege_v23.html) | Talking pixel portrait, typed radio and perimeter breakout |
 | v22 | [Admin Lock](v22/iron_siege_v22.html) | PIN-gated developer controls with automatic relocking |
@@ -27,4 +28,4 @@ Every release is preserved with simpler filenames; game contents are unchanged. 
 | v06 | [Warden counterattack](v06/iron_siege_v06.html) | Boss armor phases and counterstrikes |
 | v05 | [Adaptive Siege Warden](v05/iron_siege_v05.html) | Original preserved baseline |
 
-[Play the latest build](../current/iron_siege_v24.html) · [What's new](../CHANGELOG.md)
+[Play the latest build](../current/iron_siege_v25.html) · [What's new](../CHANGELOG.md)

@@ -1,9 +1,10 @@
 # IRON SIEGE updates
 
-**Latest: [v24 — Compact Radio](current/iron_siege_v24.html).** [Download the game package](downloads/iron_siege_v24.zip).
+**Latest: [v25 — Facility Operations](current/iron_siege_v25.html).** [Download the game package](downloads/iron_siege_v25.zip).
 
 | Version | What's new |
 |---|---|
+| v25 | Full-facility minimap with your screen outlined, event directions and distances, three new operation types, and more frequent events. |
 | v24 | Smaller radio panel, compact Warden portrait, and layouts that leave more of the battlefield visible on phones and desktop. |
 | v23 | Animated pixel Warden with typed radio dialogue. After defeating him, destroy a perimeter gate and escape the facility. |
 | v22 | Locked admin panel. |
