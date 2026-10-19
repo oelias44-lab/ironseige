@@ -1,28 +1,29 @@
 # IRON SIEGE
 
-Breach a hostile foundry. Steal its core. Survive the lockdown, destroy the Warden, and fight your way out.
+Choose a contract, breach a hostile foundry, and steal your target. Survive the lockdown, defeat the commander, and fight your way out.
 
-**Latest: v25 — Facility Operations** · [Download the game package](downloads/iron_siege_v25.zip) · [What's new](CHANGELOG.md)
+**Latest: v26 — Contract Wars** · [Download the game package](downloads/iron_siege_v26.zip) · [What's new](CHANGELOG.md)
 
-![IRON SIEGE hangar with five chassis and industrial field-console panels](docs/assets/hangar-v3.21.png)
+![IRON SIEGE contract board and five chassis](docs/assets/contract-board-v26.png)
 
 ## Play
 
-1. Open the [game package](downloads/iron_siege_v25.zip) and select **Download raw file** on GitHub.
+1. Open the [game package](downloads/iron_siege_v26.zip) and select **Download raw file** on GitHub.
 2. Extract the ZIP.
-3. Open `iron_siege_v24.html` in your browser.
+3. Open `iron_siege_v26.html` in your browser.
 
 No installation or build step is required. The package contains only the game and a short instruction file.
 
-You can also download the [standalone HTML](current/iron_siege_v25.html) with **Download raw file** and open it directly. GitHub's file preview displays source code rather than running the game.
+You can also download the [standalone HTML](current/iron_siege_v26.html) with **Download raw file** and open it directly. GitHub's file preview displays source code rather than running the game.
 
 ## Your mission
 
 - Choose one of five mechs with its own starting weapon and chassis ability.
-- Break into the facility and steal the core to trigger the siege.
-- Collect salvage and upgrade your weapons as security escalates.
-- Take on optional operations while the Warden directs the lockdown over the radio.
-- Defeat the Warden, breach the perimeter gate, and reach extraction.
+- Choose a theft contract: command core, reactor, weapons shipment, or archive data. Discover the hidden fifth contract through successful extractions.
+- Collect salvage, upgrade your weapons, and find rare hardware that changes how your equipment works. Each run has two rare slots.
+- Choose lasting production and power changes during the siege. Take on optional operations while the Warden directs the lockdown over the radio.
+- Face different Warden configurations, breach the perimeter gate, and reach extraction.
+- Complete challenges for weapon patterns, paint, and new contracts. Win to open five Escalation tiers for each contract.
 
 ## Controls and saves
 
@@ -36,6 +37,8 @@ Progress is saved in your browser. Keep using the same browser and game location
 
 ## Updates
 
-The minimap covers the whole facility and keeps your visible area outlined. Follow operation diamonds and screen-edge arrows with distance readouts. Six operation types offer nine opportunities during the siege, starting at 00:55 and roughly every minute afterward.
+**v26 — Contract Wars** gives each run new goals. Start with Command Core or Reactor Theft; optional operations and extractions open more contracts. At 02:00 and 05:00, change how the factory responds. Rare equipment can add bankshot sniper rounds, charged ground, chained mines, dash mines, or rocket fragments.
 
-Read the [changelog](CHANGELOG.md) for recent additions. All earlier builds remain available in the [version archive](versions/README.md); v25 is the latest. Single-digit archive names use leading zeros so they sort in order.
+The full-facility minimap, screen outline, operation markers, compact radio, and post-Warden breakout remain part of every run.
+
+Read the [changelog](CHANGELOG.md) for recent additions. All earlier builds remain available in the [version archive](versions/README.md); v26 is the latest. Single-digit archive names use leading zeros so they sort in order.

@@ -1,9 +1,10 @@
 # IRON SIEGE updates
 
-**Latest: [v25 — Facility Operations](current/iron_siege_v25.html).** [Download the game package](downloads/iron_siege_v25.zip).
+**Latest: [v26 — Contract Wars](current/iron_siege_v26.html).** [Download the game package](downloads/iron_siege_v26.zip).
 
 | Version | What's new |
 |---|---|
+| v26 | Five contracts, lasting facility decisions, rare equipment, different Warden configurations, challenge unlocks, and five Escalation tiers per contract. Compact boss display on phones. |
 | v25 | Full-facility minimap with your screen outlined, event directions and distances, three new operation types, and more frequent events. |
 | v24 | Smaller radio panel, compact Warden portrait, and layouts that leave more of the battlefield visible on phones and desktop. |
 | v23 | Animated pixel Warden with typed radio dialogue. After defeating him, destroy a perimeter gate and escape the facility. |
